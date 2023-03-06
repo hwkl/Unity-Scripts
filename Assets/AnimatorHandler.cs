@@ -81,5 +81,8 @@ namespace SG
         {
             canRotate = false;
         }
+        
+        #region NULL
+        #endregion
     }
 }
